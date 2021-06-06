@@ -1,0 +1,10 @@
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\bin\Debug\MRMData.dacpac
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\bin\Debug\MRMData.dll
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\bin\Debug\MRMData.pdb
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\MRMData.sqlprojAssemblyReference.cache
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\Model.xml
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\refactor.xml
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\postdeploy.sql
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\predeploy.sql
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\MRMData.dll
+C:\Users\owned\source\repos\MikeCoRetailManager\MRMData\obj\Debug\MRMData.pdb
